@@ -1,0 +1,281 @@
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto";
+
+}
+
+.manohar {
+    background-color: #252e2d;
+
+}
+
+.manohar01 {
+    background-color: #fff;
+    border: 1px solid #fff;
+}
+
+.logo {
+    width: 120px;
+    height: 50px;
+}
+
+#home {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Roboto";
+    text-transform: uppercase;
+}
+
+#about {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Roboto";
+    text-transform: uppercase;
+}
+
+#experience {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Roboto";
+    text-transform: uppercase;
+}
+
+#projects {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Roboto";
+    text-transform: uppercase;
+}
+
+#contact {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Roboto";
+    text-transform: uppercase;
+}
+
+.bg-container01 {
+    background-image: url("https://res.cloudinary.com/dqrttxm5s/image/upload/v1675928018/01_Portfolio_Background_Image_zwor00.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.heading01 {
+    color: #8efadf;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width:800px) {
+    .heading02 {
+        color: #fff;
+        font-size: 50px;
+    }
+
+    .heading03 {
+        color: #c45631;
+        font-size: 38px;
+    }
+
+    .button02 {
+        background-color: #e6478c;
+        color: #fff;
+        width: 100px;
+        border: 0px;
+        margin-right: 5px;
+    }
+
+    .button03 {
+        background-color: #e6478c;
+        color: #fff;
+        width: 120px;
+        border: 0px;
+        margin-top: 1px;
+
+    }
+}
+
+@media screen and (min-width:802px) {
+    .heading02 {
+        color: #fff;
+        font-size: 80px;
+    }
+
+    .heading03 {
+        color: #c45631;
+        font-size: 70px;
+    }
+
+    .button02 {
+        background-color: #e6478c;
+        color: #fff;
+        width: 120px;
+        border: 0px;
+        margin-right: 15px;
+    }
+
+    .button03 {
+        background-color: #e6478c;
+        color: #fff;
+        width: 120px;
+        border: 0px;
+
+    }
+}
+
+.button01 {
+    background-color: transparent;
+    border-color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    color: #91e817;
+    text-transform: uppercase;
+    font-size: 20px;
+    width: 300px;
+    height: 60px;
+    letter-spacing: 2px;
+    border-radius: 25px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.image01 {
+    width: 100%;
+}
+
+.heading04 {
+    color: #0d4cd4;
+    font-size: 16px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+
+.heading05 {
+    color: #323f4b;
+    font-size: 35px;
+    font-weight: bold;
+
+}
+
+
+
+.heading06 {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.heading07 {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.paragraph01 {
+    color: #323f4b;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.paragraph02 {
+    color: #323f4b;
+    font-size: 17px;
+    font-weight: 400;
+    margin-top: -10px;
+}
+
+.heading08 {
+    color: #ccc8ca;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.progress-bar.p1 {
+    font-size: 16px;
+    height: 15px;
+    background-color: #37a33b;
+}
+
+.progress-bar.p2 {
+    font-size: 16px;
+    height: 15px;
+    background-color: #e3cd09;
+}
+
+.bg-container02 {
+    background-color: #e6e8e6;
+    background-size: cover;
+}
+
+
+
+.foodma {
+    height: 200px;
+}
+
+.project-link {
+    color: #323f4b;
+    font-size: 22px;
+}
+
+.card-manu:hover {
+    transform: translateY(-30px);
+    cursor: pointer;
+}
+
+.project-link:hover {
+    color: blue;
+}
+
+.bg-container03 {
+    background-color: #323f4b;
+    background-size: cover;
+
+}
+
+.symbol01 {
+    color: #fff;
+    font-size: 25px;
+}
+
+.phone-number {
+    color: #fff;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.my-projects {
+    color: #323f4b;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.contact-heading {
+    color: #fff;
+    font-weight: bold;
+}
+
+.symbol02 {
+    color: #fff;
+    font-size: 40px;
+    width: 90px;
+    height: 90px;
+    background-color: #f0b513;
+    text-align: center;
+    padding: 25px;
+    border-radius: 50%;
+}
+
+.symbol02:hover {
+    background: #adedc0;
+    color: #56c6e8;
+}
